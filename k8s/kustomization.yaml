@@ -7,4 +7,4 @@ resources:
 images:
 - name: goapp
   newName: wesleywillians/argocd
-  newTag: 84fbba38a7fa41e98059f127966503a13e8c6ac9
+  newTag: 0ae6d7ed49cf4f1ce4e0b426fa2b71f3d2dc6b4b
