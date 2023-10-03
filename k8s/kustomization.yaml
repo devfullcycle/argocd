@@ -9,4 +9,4 @@ namespace: default
 images:
 - name: goapp
   newName: wesleywillians/argocd
-  newTag: 451b0f4afc52288e71d94272987546e2e6764ca1
+  newTag: 41584a04afd65dd2a06456d0047d6563cd4d0447
