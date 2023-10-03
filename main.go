@@ -8,7 +8,7 @@ import (
 
 func main() {
 	http.HandleFunc("/", func(w http.ResponseWriter, r *http.Request) {
-		w.Write([]byte("<h1>Hello MBA Full Cycle, Wesley é bom em golang, Luiz não é!!!!!!!</h1>"))
+		w.Write([]byte("<h1>Hello MBA Full Cycle!!!!!!!</h1>"))
 	})
 	// add promhttp.Handler()
 	http.Handle("/metrics", promhttp.Handler())
